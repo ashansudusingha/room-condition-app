@@ -7,7 +7,7 @@ import {
   onValue,
   set,
 } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js";
-
+//
 // Firebase configuration object (replace with your actual Firebase config)
 const firebaseConfig = {
   apiKey: "AIzaSyBvl_7QAJjE3nsT3GTfaNsA61pfSUHjDaw",
